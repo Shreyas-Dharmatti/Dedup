@@ -25,7 +25,7 @@ This repository is heavily inspired by the following methods and code written in
 ### Prerequisites
 
 - Python 3.8+
-- Java 8+ (for Spark-based scripts)
+- Java 11 (for Spark-based scripts)
 
 ### Install Dependencies
 
